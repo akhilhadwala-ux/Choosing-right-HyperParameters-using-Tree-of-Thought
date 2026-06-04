@@ -210,7 +210,6 @@ Handwritten_Digit_Classification.ipynb
 
 ### Development Environment
 
-* Jupyter Notebook
 * Google Colab
 
 ---
